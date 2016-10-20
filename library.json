@@ -1,0 +1,15 @@
+{
+  "keywords": "begin, calibrate, setfreq, up, down",
+  "description": "Generating sine or square signals with AD9850 module",
+  "repository":
+  {
+    "type": "Other",
+    "url": https://github.com/F4GOJ/AD9850"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    
+  ]
+}
